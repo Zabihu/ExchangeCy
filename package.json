@@ -1,0 +1,19 @@
+{
+  "name": "exchange_cy_2024",
+  "version": "1.0.0",
+  "description": "API & UI Tests using Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "keywords": [
+    "Cypress",
+    "API",
+    "UI"
+  ],
+  "author": "Zabi",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.8.1"
+  }
+}
